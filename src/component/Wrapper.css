@@ -1,0 +1,8 @@
+.Wrapper {
+    width: 350px;
+    height: 550px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #111416;
+    outline: 5px solid #fff;
+}
